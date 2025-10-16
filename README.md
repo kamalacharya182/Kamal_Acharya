@@ -1,4 +1,4 @@
-# Kamal_Acharya
+
 <b>Kamal Acharya</b> (कमल आचार्य; born 27 August 1998) is a Nepalese researcher and author in the field of computer science and information technology (CSIT).Kamal Acharya's research interests are project management, science and technology, computer engineering, research articles and google analytics.
 
 <b>Early life and Education</b>: Acharya was born on 27th August 1998 to Father Dilli Raj Acharya and Mother Sharada Devi Acharya in Kailali district of Nepal.Kamal Acharya passed school leaving certificate (S.L.C) from Janapriya Secondary School (2014) likma, Kailali, He has passed intermediate of science (I.sc) from Radiant Secondary School (2014-2016) Mahendranagar, Kanchanpur.He has passed bachelor of science and information technology (B.sc Csit) from Farwestern University Mahendranagar, Kanchanpur (2016-2019) and master of science and information technology (M.sc Csit) from Tribhuvan University Kirtipur, Kathmandu (2019-2022). He like to do a social work as well as help for those people who are helpless.
